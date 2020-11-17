@@ -1,4 +1,4 @@
-# BPlusTree
+# B+ Tree
 > Benzon Carlitos Salazar
 
 A B+ tree is an m-ary tree with a variable but often large number of children per node. 
